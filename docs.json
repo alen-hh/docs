@@ -57,12 +57,21 @@
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Test",
+            "openapi": "api-reference/openapi/test.json",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "api-reference/test/get",
+              "api-reference/test/create",
+              "api-reference/test/delete",
+              "api-reference/test/webhook"
+            ]
+          },
+          {
+            "group": "Swagger",
+            "openapi": "api-reference/openapi/swagger.json",
+            "pages": [
+              "api-reference/swagger/addPet",
+              "api-reference/swagger/findPetsByTags"
             ]
           }
         ]
