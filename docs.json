@@ -111,6 +111,16 @@
      "vscode"
    ]
   },
+  "api": {
+   "playground": {
+     "display": "interactive"
+   },
+   "examples": {
+     "languages": ["curl", "python", "javascript"],
+     "defaults": "required",
+     "prefill": true
+   }
+  },
   "footer": {
     "socials": {
       "x": "https://x.com/mintlify",
