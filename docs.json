@@ -58,21 +58,11 @@
           },
           {
             "group": "Test",
-            "openapi": "api-reference/openapi/test.json",
-            "pages": [
-              "api-reference/test/get",
-              "api-reference/test/create",
-              "api-reference/test/delete",
-              "api-reference/test/webhook"
-            ]
+            "openapi": "api-reference/openapi/test.json"
           },
           {
             "group": "Swagger",
-            "openapi": "api-reference/openapi/swagger.json",
-            "pages": [
-              "api-reference/swagger/addPet",
-              "api-reference/swagger/findPetsByTags"
-            ]
+            "openapi": "api-reference/openapi/swagger.json"
           }
         ]
       }
