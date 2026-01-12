@@ -21,6 +21,7 @@
           },
           {
             "group": "Model API",
+            "pages": ["authentication"],
             "openapi": "api-reference/openapi/swagger.json"
           }
         ]
